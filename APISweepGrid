@@ -1,0 +1,23 @@
+
+---
+
+### **2. 27_APISweepGrid**  
+**Description:**  
+Scans large lists of API endpoints and displays latency, status, and uptime trends.
+
+#### **README.md**
+```markdown
+# APISweepGrid - Bulk Endpoint Monitor
+
+APISweepGrid checks a wide grid of APIs for status and latency, perfect for distributed or microservice setups.
+
+## Features
+- Parallelized scanning  
+- Response + code logging  
+- Output to terminal and JSON  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_APISweepGrid.git
+cd 27_APISweepGrid
+python monitor.py
