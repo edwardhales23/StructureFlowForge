@@ -1,0 +1,23 @@
+
+---
+
+### **3. 27_LogTraceNet**  
+**Description:**  
+Analyzes logs for frequent messages and identifies clusters of repeated events and anomalies.
+
+#### **README.md**
+```markdown
+# LogTraceNet - Repetition & Cluster Log Analyzer
+
+LogTraceNet uncovers log noise and critical patterns by scanning logs for repetition, bursts, and error keywords.
+
+## Features
+- Repetition grouping  
+- Keyword filtering  
+- Timestamp-based clustering  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_LogTraceNet.git
+cd 27_LogTraceNet
+python analyze.py
