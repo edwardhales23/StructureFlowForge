@@ -1,0 +1,23 @@
+
+---
+
+### **4. 27_StreamViewScope**  
+**Description:**  
+Displays live numeric input as a real-time scrolling chart with adjustable speed.
+
+#### **README.md**
+```markdown
+# StreamViewScope - Live Metric Chart Renderer
+
+StreamViewScope visualizes fast-moving numeric data with clean charts ideal for dashboards or simulations.
+
+## Features
+- Scrollable real-time line chart  
+- Adjustable refresh interval  
+- Lightweight and responsive  
+
+## Usage
+```bash
+git clone https://github.com/your-username/27_StreamViewScope.git
+cd 27_StreamViewScope
+python visualize.py
